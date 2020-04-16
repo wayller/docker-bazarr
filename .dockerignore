@@ -5,3 +5,4 @@
 .drone.yml
 README.md
 update.sh
+bazarr_subsync.sh
